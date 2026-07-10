@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 from keras.models import load_model
 
-MODEL_PATH = "models/generator_model_010.h5"
+MODEL_PATH = "models/generator_model_100.keras"
 LATENT_DIM = 100
 
 
